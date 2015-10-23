@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="NewtestSolution" uuid="80a62fa0-ddaf-49d4-b5fb-f346883bb38a" compileInMPS="true">
+<solution name="NewTestSolution" uuid="80a62fa0-ddaf-49d4-b5fb-f346883bb38a" compileInMPS="true">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />

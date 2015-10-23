@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:e20461d9-5e1a-4fd5-9de0-726b541fff66(NewtestSolution.TestModel)">
+<model ref="r:e20461d9-5e1a-4fd5-9de0-726b541fff66(NewTestSolution.TestModel)">
   <persistence version="9" />
   <languages>
     <use id="ae820ea7-0b4a-4a6b-8108-490024cb8f54" name="TestLanguage" version="-1" />
